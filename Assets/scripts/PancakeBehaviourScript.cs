@@ -453,10 +453,6 @@ public class PancakeBehaviourScript : MonoBehaviour {
 		} else {
 			vx = minthrowSpeed + (attackSpeed+1)*0.5f*throwSpeed;
 		}
-		//Debug.Log ("inside pancake throw script: vx - " + vx);
-			/*if (!ownerScript.isFacingRight ()) {
-			vx *= -1.0f;
-		} */
 		//disable friction:
 		rigidBodyOfInterest.GetComponent<BoxCollider2D> ().sharedMaterial.friction = 0.0f;
 		sideRigidBody1.GetComponent<BoxCollider2D> ().sharedMaterial.friction = 0.0f;

@@ -485,32 +485,17 @@ public class CharacterBehaviourScript : MonoBehaviour {
 		}
 		pancakeScript.disableCollisionsWith (GetComponent<Rigidbody2D> ());
 		//throwing the pancake:
-		int sideCorrectedWithFaceDir = 0;
 		if (side == 1 ){
-			if (facingRight){
-				sideCorrectedWithFaceDir = 1;
-			}
-			else {
-				sideCorrectedWithFaceDir = 2;
-			}
 			//throw pancake to right:
 			if (attackSpeed1<0){
-				//Debug.Log ("attackspeed from 1 - (if): "+attackSpeed1);
-				pancakeScript.throwThisPancake (-1.0f*attackSpeed1,sideCorrectedWithFaceDir);
+				pancakeScript.throwThisPancake (-1.0f*attackSpeed1,side);
 			}
 			else{
-				//Debug.Log ("attackspeed from 1 - (else): "+attackSpeed1);
-				pancakeScript.throwThisPancake (attackSpeed1,sideCorrectedWithFaceDir);
+				pancakeScript.throwThisPancake (attackSpeed1,side);
 			}
 		}
 		if (side == 2 ){
-			if (facingRight){
-				sideCorrectedWithFaceDir = 2;
-			}
-			else {
-				sideCorrectedWithFaceDir = 1;
-			}
-			pancakeScript.throwThisPancake (attackSpeed2,sideCorrectedWithFaceDir);
+			pancakeScript.throwThisPancake (attackSpeed2,side);
 		}
 	}
 
