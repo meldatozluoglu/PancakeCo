@@ -1,0 +1,28 @@
+Event	ID	Name			Wwise Object Path	Notes
+	633315833	LowHit_player1			\Default Work Unit\LowHit_player1	
+	1718903445	Play_music_level1			\Default Work Unit\Play_music_level1	
+	1757376960	Jump_player1			\Default Work Unit\Jump_player1	
+	2906357679	Walk_player1			\Default Work Unit\Walk_player1	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	258110631	Game_Music			\Default Work Unit\Game_Music	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Game_Music			
+	2209143525	Music_level2	Game_Music			
+	2209143526	Music_level1	Game_Music			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	43439420	1059 - Player Hit12	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\1059 - Player Hit12_0A6027E8.wem		\Actor-Mixer Hierarchy\Default Work Unit\LowHit\1059 - Player Hit12		52096
+	170546878	1059 - Player Hit14	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\1059 - Player Hit14_D5686362.wem		\Actor-Mixer Hierarchy\Default Work Unit\LowHit\1059 - Player Hit14		66204
+	210906414	1059 - Player Hit15	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\1059 - Player Hit15_C57668D8.wem		\Actor-Mixer Hierarchy\Default Work Unit\LowHit\1059 - Player Hit15		71320
+	474897929	Walk 1	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\Walk 1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walking Sequence Container\Walk 1		35344
+	537078859	1059 - Player Hit16	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\1059 - Player Hit16_51D55A22.wem		\Actor-Mixer Hierarchy\Default Work Unit\LowHit\1059 - Player Hit16		77144
+	544973215	Pancake Track 2	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\Pancake Track 2_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\GameMusic_Level1\Level1_track2\Pancake Track 2\Pancake Track 2		2878084
+	660777851	1059 - Player Hit17	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\1059 - Player Hit17_A055166C.wem		\Actor-Mixer Hierarchy\Default Work Unit\LowHit\1059 - Player Hit17		94432
+	720802322	Jump1	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\Jump1_74B9C26F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Jump1		90532
+	855408445	1059 - Player Hit11	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\1059 - Player Hit11_B88A107E.wem		\Actor-Mixer Hierarchy\Default Work Unit\LowHit\1059 - Player Hit11		64268
+	880165071	Pancake Track 1	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\Pancake Track 1_4B8CC0C5.wem		\Interactive Music Hierarchy\Default Work Unit\GameMusic_Level1\Level1_track1\Pancake Track1\Pancake Track 1		21697344
+	916829371	1059 - Player Hit13	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\1059 - Player Hit13_63FA76FF.wem		\Actor-Mixer Hierarchy\Default Work Unit\LowHit\1059 - Player Hit13		51476
+	973065752	Walk 2	Z:\backup\musicworks\Projects\1059 - Sound Design - kummerspeckco\01 - Project\Wwise\Pancake\.cache\Mac\SFX\Walk 2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Walking Sequence Container\Walk 2		35344
+

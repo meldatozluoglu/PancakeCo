@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="10" SoundbankVersion="113">
+	<RootPaths>
+		<ProjectRoot>/Users/cagritozluoglu/Library/Application Support/Wwise/Bottles/wwise/dosdevices/z:/backup/musicworks/Projects/1059 - Sound Design - kummerspeckco/01 - Project/Wwise/Pancake/</ProjectRoot>
+		<SourceFilesRoot>/Users/cagritozluoglu/Library/Application Support/Wwise/Bottles/wwise/dosdevices/z:/backup/musicworks/Projects/1059 - Sound Design - kummerspeckco/01 - Project/Wwise/Pancake/.cache/Mac/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/cagritozluoglu/Library/Application Support/Wwise/Bottles/wwise/dosdevices/z:/backup/musicworks/Projects/1059 - Sound Design - kummerspeckco/01 - Project/Wwise/Pancake/GeneratedSoundBanks/Mac/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/cagritozluoglu/Library/Application Support/Wwise/Bottles/wwise/dosdevices/z:/backup/musicworks/Projects/1059 - Sound Design - kummerspeckco/01 - Project/Wwise/Pancake/GeneratedSoundBanks/Mac/</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="145464345" Language="SFX">
+			<ShortName>pancake_co_sb</ShortName>
+			<Path>pancake_co_sb.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1757376960" Name="Jump_player1"/>
+				<Event Id="633315833" Name="LowHit_player1"/>
+				<Event Id="1718903445" Name="Play_music_level1"/>
+				<Event Id="2906357679" Name="Walk_player1"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="43439420" Language="SFX">
+					<ShortName>1059 - Player Hit12.wav</ShortName>
+					<Path>SFX/1059 - Player Hit12_0A6027E8.wem</Path>
+				</File>
+				<File Id="170546878" Language="SFX">
+					<ShortName>1059 - Player Hit14.wav</ShortName>
+					<Path>SFX/1059 - Player Hit14_D5686362.wem</Path>
+				</File>
+				<File Id="210906414" Language="SFX">
+					<ShortName>1059 - Player Hit15.wav</ShortName>
+					<Path>SFX/1059 - Player Hit15_C57668D8.wem</Path>
+				</File>
+				<File Id="474897929" Language="SFX">
+					<ShortName>Walk 1.wav</ShortName>
+					<Path>SFX/Walk 1_9E69E797.wem</Path>
+				</File>
+				<File Id="537078859" Language="SFX">
+					<ShortName>1059 - Player Hit16.wav</ShortName>
+					<Path>SFX/1059 - Player Hit16_51D55A22.wem</Path>
+				</File>
+				<File Id="544973215" Language="SFX">
+					<ShortName>Pancake Track 2.wav</ShortName>
+					<Path>SFX/Pancake Track 2_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="660777851" Language="SFX">
+					<ShortName>1059 - Player Hit17.wav</ShortName>
+					<Path>SFX/1059 - Player Hit17_A055166C.wem</Path>
+				</File>
+				<File Id="720802322" Language="SFX">
+					<ShortName>Jump1.wav</ShortName>
+					<Path>SFX/Jump1_74B9C26F.wem</Path>
+				</File>
+				<File Id="855408445" Language="SFX">
+					<ShortName>1059 - Player Hit11.wav</ShortName>
+					<Path>SFX/1059 - Player Hit11_B88A107E.wem</Path>
+				</File>
+				<File Id="880165071" Language="SFX">
+					<ShortName>Pancake Track 1.wav</ShortName>
+					<Path>SFX/Pancake Track 1_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="916829371" Language="SFX">
+					<ShortName>1059 - Player Hit13.wav</ShortName>
+					<Path>SFX/1059 - Player Hit13_63FA76FF.wem</Path>
+				</File>
+				<File Id="973065752" Language="SFX">
+					<ShortName>Walk 2.wav</ShortName>
+					<Path>SFX/Walk 2_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

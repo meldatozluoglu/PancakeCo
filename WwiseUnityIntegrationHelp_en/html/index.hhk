@@ -1,0 +1,251 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a9ebd4b3857bd5aa4e48ad140f7418a75.html"><param name="Name" value="actionOnEventType"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a9ebd4b3857bd5aa4e48ad140f7418a75.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a9ebd4b3857bd5aa4e48ad140f7418a75.html"><param name="Name" value="AkEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__install__addlicensedplugins.html"><param name="Name" value="Adding Licensed Plugins"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="unity__add__triggers.html"><param name="Name" value="Adding new triggers for Wwise events"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_ambient.html"><param name="Name" value="AkAmbient"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a9ebd4b3857bd5aa4e48ad140f7418a75.html"><param name="Name" value="actionOnEventType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_ac9a601f2ea52e2ec4f7da6f6d1f47417.html"><param name="Name" value="curveInterpolation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a55c358f4863c8f85aa5dd72dcf5b8fcb.html"><param name="Name" value="enableActionOnEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a74212f955e0443deb39b764bbecc809a.html"><param name="Name" value="eventID"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="MAX_NB_TRIGGERS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a3f25432892a94c9b80d4e24408cfe551.html"><param name="Name" value="soundEmitterObject"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a856277457c22871638f774f7b99069d8.html"><param name="Name" value="transitionDuration"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="triggerList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="triggerTypes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="useOtherObject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_audio_listener.html"><param name="Name" value="AkAudioListener"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank.html"><param name="Name" value="AkBank"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_a54e661da632920972f17f634261e5980.html"><param name="Name" value="bankName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_ad4479c06c1ebb566ae0026ac55a33466.html"><param name="Name" value="loadAsynchronous"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="MAX_NB_TRIGGERS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="triggerList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="triggerTypes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_abc5eeb2049f9b0fc8eb9a08cb2a9f332.html"><param name="Name" value="unloadTriggerList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="useOtherObject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_manager.html"><param name="Name" value="AkBankManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_manager_a7e8e57ad8d794e771654242733419771.html"><param name="Name" value="LoadBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_manager_ac76cc3fd7f71e2abcb8d2e9813bc2779.html"><param name="Name" value="LoadBankAsync"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_manager_a61b84e85a9591dae1eacd60b391ceb90.html"><param name="Name" value="UnloadBank"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_environment.html"><param name="Name" value="AkEnvironment"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_environment_1_1_ak_environment___compare_by_selection_algorithm.html"><param name="Name" value="AkEnvironment::AkEnvironment_CompareBySelectionAlgorithm"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_environment_portal.html"><param name="Name" value="AkEnvironmentPortal"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_environment_portal_af6f8e390606fd322e4ffac5c8a5211d1.html"><param name="Name" value="axis"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_environment_portal_a803fc2ce7c07709afdcda9672cad6951.html"><param name="Name" value="GetAuxSendValueForPosition"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event.html"><param name="Name" value="AkEvent"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a9ebd4b3857bd5aa4e48ad140f7418a75.html"><param name="Name" value="actionOnEventType"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_ac9a601f2ea52e2ec4f7da6f6d1f47417.html"><param name="Name" value="curveInterpolation"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a55c358f4863c8f85aa5dd72dcf5b8fcb.html"><param name="Name" value="enableActionOnEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a74212f955e0443deb39b764bbecc809a.html"><param name="Name" value="eventID"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="MAX_NB_TRIGGERS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a3f25432892a94c9b80d4e24408cfe551.html"><param name="Name" value="soundEmitterObject"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a856277457c22871638f774f7b99069d8.html"><param name="Name" value="transitionDuration"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="triggerList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="triggerTypes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="useOtherObject"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_ak_event_callback_msg.html"><param name="Name" value="AkEventCallbackMsg"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_ak_event_callback_msg_a6dda26f4b81e56069543c87075b77636.html"><param name="Name" value="info"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_ak_event_callback_msg_ac6e78d3c3a2518bfe74f115c4838eb21.html"><param name="Name" value="sender"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj.html"><param name="Name" value="AkGameObj"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a6a11fe5b456109327f7c22cd3738b7cb.html"><param name="Name" value="GetPosition"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a92b827623ddc330289d2e1f228841399.html"><param name="Name" value="isEnvironmentAware"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a117b81ead04251265153133dd6201639.html"><param name="Name" value="listenerMask"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a28ed43e969430cb1014617a68c3241e6.html"><param name="Name" value="m_posOffsetData"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer.html"><param name="Name" value="AkInitializer"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_afee118d93773dbca99a24c44763de187.html"><param name="Name" value="basePath"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a0ad8d81a50a26216273ccd6b2e7e1f8c.html"><param name="Name" value="defaultPoolSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_ad9184e361ff2f0ef161a47c167669b81.html"><param name="Name" value="engineLogging"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a61be742439aa04aa1166a2fa41cb64cd.html"><param name="Name" value="language"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_ac82f1b79e078db9fdac54002a0a7b78c.html"><param name="Name" value="lowerPoolSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a3ce030ffbae1ed67e857e5e3617eb441.html"><param name="Name" value="memoryCutoffThreshold"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a488d0eeec5644c0aaefd83b377a9c216.html"><param name="Name" value="streamingPoolSize"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader.html"><param name="Name" value="AkMemBankLoader"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_a2a14604a902af51dc8589b273c7be184.html"><param name="Name" value="bankName"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_a2eb6294ffc60c639f86e13869fc99826.html"><param name="Name" value="isLocalizedBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_a97d7dae0ed7e6718759403417274af54.html"><param name="Name" value="LoadLocalizedBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_ac730fdbbc50db52628fab61369cfff3a.html"><param name="Name" value="LoadNonLocalizedBank"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_state.html"><param name="Name" value="AkState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_state_a2c97d469200fd06716cac28b82d1580f.html"><param name="Name" value="groupID"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="MAX_NB_TRIGGERS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="triggerList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="triggerTypes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="useOtherObject"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_state_a79a82c86cd31179113562929c1a67fd2.html"><param name="Name" value="valueID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_switch.html"><param name="Name" value="AkSwitch"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_switch_aaa5fffce06dc767f44d06fad43959e86.html"><param name="Name" value="groupID"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="MAX_NB_TRIGGERS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="triggerList"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="triggerTypes"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="useOtherObject"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_switch_a0c4801b342fd0b06f1f70f3d7243c455.html"><param name="Name" value="valueID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_terminator.html"><param name="Name" value="AkTerminator"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_trigger_base.html"><param name="Name" value="AkTriggerBase"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_trigger_base_ab4614eb4bd6786e862e003bfa19cafea.html"><param name="Name" value="Trigger"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_trigger_base_ab98c3e4da938eedb78dc5506f61ab6e4.html"><param name="Name" value="triggerDelegate"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_utilities.html"><param name="Name" value="AkUtilities"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__limitations.html"><param name="Name" value="API Changes and Limitations"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__audiosessionios.html"><param name="Name" value="Audio session interruptions (iOS)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_environment_portal_af6f8e390606fd322e4ffac5c8a5211d1.html"><param name="Name" value="axis"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__pauseresumeandroid.html"><param name="Name" value="Background Mode (Android)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_a54e661da632920972f17f634261e5980.html"><param name="Name" value="bankName"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_a54e661da632920972f17f634261e5980.html"><param name="Name" value="AkBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_a2a14604a902af51dc8589b273c7be184.html"><param name="Name" value="AkMemBankLoader"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_afee118d93773dbca99a24c44763de187.html"><param name="Name" value="basePath"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__builddeployandroid.html"><param name="Name" value="Build for Android"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__howtobuilddeployios.html"><param name="Name" value="Build for iOS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__howtobuilddeploylinux.html"><param name="Name" value="Build for Linux"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__deploy.html"><param name="Name" value="Build for target platform"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__howtobuilddeploy_w_p8.html"><param name="Name" value="Build for Windows Phone 8.0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__buildlog.html"><param name="Name" value="Build Log"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__howtobuildmultiarch.html"><param name="Name" value="Build the application for a multi-architecture platform"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__building.html"><param name="Name" value="Build the Integration code"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__buildxcodemountainlion.html"><param name="Name" value="Build using Xcode GUI on Mac OS X Mountain Lion"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__installprojectchange.html"><param name="Name" value="Changes made to your Unity Project"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_ac9a601f2ea52e2ec4f7da6f6d1f47417.html"><param name="Name" value="curveInterpolation"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_ac9a601f2ea52e2ec4f7da6f6d1f47417.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_ac9a601f2ea52e2ec4f7da6f6d1f47417.html"><param name="Name" value="AkEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a0ad8d81a50a26216273ccd6b2e7e1f8c.html"><param name="Name" value="defaultPoolSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__pluginfolders.html"><param name="Name" value="Designated Platform Plugin Folder"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a55c358f4863c8f85aa5dd72dcf5b8fcb.html"><param name="Name" value="enableActionOnEvent"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a55c358f4863c8f85aa5dd72dcf5b8fcb.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a55c358f4863c8f85aa5dd72dcf5b8fcb.html"><param name="Name" value="AkEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_ad9184e361ff2f0ef161a47c167669b81.html"><param name="Name" value="engineLogging"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a74212f955e0443deb39b764bbecc809a.html"><param name="Name" value="eventID"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a74212f955e0443deb39b764bbecc809a.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a74212f955e0443deb39b764bbecc809a.html"><param name="Name" value="AkEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_environment_portal_a803fc2ce7c07709afdcda9672cad6951.html"><param name="Name" value="GetAuxSendValueForPosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a6a11fe5b456109327f7c22cd3738b7cb.html"><param name="Name" value="GetPosition"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_state_a2c97d469200fd06716cac28b82d1580f.html"><param name="Name" value="groupID"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_state_a2c97d469200fd06716cac28b82d1580f.html"><param name="Name" value="AkState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_switch_aaa5fffce06dc767f44d06fad43959e86.html"><param name="Name" value="AkSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_ak_event_callback_msg_a6dda26f4b81e56069543c87075b77636.html"><param name="Name" value="info"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__compileswig.html"><param name="Name" value="Install SWIG (Mac)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__installunitypackage.html"><param name="Name" value="Installing a Wwise Integration Package for the first time"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__installation.html"><param name="Name" value="Installing or upgrading the integration in a Unity project"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__installvalidation.html"><param name="Name" value="Integrating sounds in your game"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a92b827623ddc330289d2e1f228841399.html"><param name="Name" value="isEnvironmentAware"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_a2eb6294ffc60c639f86e13869fc99826.html"><param name="Name" value="isLocalizedBank"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a61be742439aa04aa1166a2fa41cb64cd.html"><param name="Name" value="language"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__licensing.html"><param name="Name" value="Licensing (Free & Commercial)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__limitmetro.html"><param name="Name" value="Limitations: Windows 8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a117b81ead04251265153133dd6201639.html"><param name="Name" value="listenerMask"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_ad4479c06c1ebb566ae0026ac55a33466.html"><param name="Name" value="loadAsynchronous"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_manager_a7e8e57ad8d794e771654242733419771.html"><param name="Name" value="LoadBank"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_manager_ac76cc3fd7f71e2abcb8d2e9813bc2779.html"><param name="Name" value="LoadBankAsync"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_a97d7dae0ed7e6718759403417274af54.html"><param name="Name" value="LoadLocalizedBank"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_mem_bank_loader_ac730fdbbc50db52628fab61369cfff3a.html"><param name="Name" value="LoadNonLocalizedBank"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_ac82f1b79e078db9fdac54002a0a7b78c.html"><param name="Name" value="lowerPoolSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_game_obj_a28ed43e969430cb1014617a68c3241e6.html"><param name="Name" value="m_posOffsetData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__unity__dlc.html"><param name="Name" value="Making DLC with Wwise and Unity"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="MAX_NB_TRIGGERS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="AkBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="AkEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="AkState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a66a8b7926fdb83ea328b32f58027e319.html"><param name="Name" value="AkSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a3ce030ffbae1ed67e857e5e3617eb441.html"><param name="Name" value="memoryCutoffThreshold"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__platforms.html"><param name="Name" value="Platform-Specific Information"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__requsinginte.html"><param name="Name" value="Prerequisites"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__releasenotes.html"><param name="Name" value="Release Notes"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_ak_event_callback_msg_ac6e78d3c3a2518bfe74f115c4838eb21.html"><param name="Name" value="sender"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a3f25432892a94c9b80d4e24408cfe551.html"><param name="Name" value="soundEmitterObject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a3f25432892a94c9b80d4e24408cfe551.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a3f25432892a94c9b80d4e24408cfe551.html"><param name="Name" value="AkEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_initializer_a488d0eeec5644c0aaefd83b377a9c216.html"><param name="Name" value="streamingPoolSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a856277457c22871638f774f7b99069d8.html"><param name="Name" value="transitionDuration"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a856277457c22871638f774f7b99069d8.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_event_a856277457c22871638f774f7b99069d8.html"><param name="Name" value="AkEvent"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_trigger_base_ab4614eb4bd6786e862e003bfa19cafea.html"><param name="Name" value="Trigger"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_trigger_base_ab98c3e4da938eedb78dc5506f61ab6e4.html"><param name="Name" value="triggerDelegate"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="triggerList"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="AkBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="AkEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="AkState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_aecc601f7b19338d845a464e127acf089.html"><param name="Name" value="AkSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="triggerTypes"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="AkBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="AkEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="AkState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a98fde9895af50357ffaef30f32fc3896.html"><param name="Name" value="AkSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="unity__troubleshooting.html"><param name="Name" value="Troubleshooting"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__uninstalling.html"><param name="Name" value="Uninstalling the Wwise Integration Package"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_manager_a61b84e85a9591dae1eacd60b391ceb90.html"><param name="Name" value="UnloadBank"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_bank_abc5eeb2049f9b0fc8eb9a08cb2a9f332.html"><param name="Name" value="unloadTriggerList"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__updating.html"><param name="Name" value="Updating/upgrading the Wwise Integration Package to a newer version"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="useOtherObject"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="AkAmbient"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="AkBank"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="AkEvent"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="AkState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_unity_event_handler_a7356afac1aa764845f51a4f403eb277a.html"><param name="Name" value="AkSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__loadbankobb.html"><param name="Name" value="Using OBB files (Android)"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__appscripts.html"><param name="Name" value="Using Wwise Components In Unity"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__customplatforms.html"><param name="Name" value="Using Wwise Custom Platforms in Unity"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_state_a79a82c86cd31179113562929c1a67fd2.html"><param name="Name" value="valueID"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_state_a79a82c86cd31179113562929c1a67fd2.html"><param name="Name" value="AkState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_ak_switch_a0c4801b342fd0b06f1f70f3d7243c455.html"><param name="Name" value="AkSwitch"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__soundbank__location.html"><param name="Name" value="Where should my SoundBanks be located"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__special_info_wp8.html"><param name="Name" value="Windows Phone 8.0 Specific information"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="pg__wwisedemoscene.html"><param name="Name" value="Wwise Demo Scene"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="unity__picker.html"><param name="Name" value="Wwise Picker"></OBJECT>
+</UL>
+</BODY>
+</HTML>

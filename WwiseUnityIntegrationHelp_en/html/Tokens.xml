@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+  <Token>
+    <TokenIdentifier>
+      <Name>eventID</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a74212f955e0443deb39b764bbecc809a.html</Path>
+    <Anchor>a74212f955e0443deb39b764bbecc809a</Anchor>
+    <Abstract>ID of the Event as found in the WwiseID.cs file.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>soundEmitterObject</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a3f25432892a94c9b80d4e24408cfe551.html</Path>
+    <Anchor>a3f25432892a94c9b80d4e24408cfe551</Anchor>
+    <Abstract>Game object onto which the Event will be posted. By default, when empty, it is posted...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>enableActionOnEvent</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a55c358f4863c8f85aa5dd72dcf5b8fcb.html</Path>
+    <Anchor>a55c358f4863c8f85aa5dd72dcf5b8fcb</Anchor>
+    <Abstract>Enables additional options to reuse existing events. Use it to transform a Play event...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>actionOnEventType</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a9ebd4b3857bd5aa4e48ad140f7418a75.html</Path>
+    <Anchor>a9ebd4b3857bd5aa4e48ad140f7418a75</Anchor>
+    <Abstract>Replacement action. See AK::SoundEngine::ExecuteEventOnAction().</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>curveInterpolation</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_ac9a601f2ea52e2ec4f7da6f6d1f47417.html</Path>
+    <Anchor>ac9a601f2ea52e2ec4f7da6f6d1f47417</Anchor>
+    <Abstract>Fade curve to use with the new Action. See AK::SoundEngine::ExecuteEventOnAction()...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>transitionDuration</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a856277457c22871638f774f7b99069d8.html</Path>
+    <Anchor>a856277457c22871638f774f7b99069d8</Anchor>
+    <Abstract>Duration of the fade. See AK::SoundEngine::ExecuteEventOnAction().</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>bankName</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_bank_a54e661da632920972f17f634261e5980.html</Path>
+    <Anchor>a54e661da632920972f17f634261e5980</Anchor>
+    <Abstract>Name of the bank, as specified in the Wwise project.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>loadAsynchronous</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_bank_ad4479c06c1ebb566ae0026ac55a33466.html</Path>
+    <Anchor>ad4479c06c1ebb566ae0026ac55a33466</Anchor>
+    <Abstract>Check this to load the bank in background. Be careful, if events are triggered and...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>unloadTriggerList</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_bank_abc5eeb2049f9b0fc8eb9a08cb2a9f332.html</Path>
+    <Anchor>abc5eeb2049f9b0fc8eb9a08cb2a9f332</Anchor>
+    <Abstract>Reserved.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>LoadBank</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>clm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_bank_manager_a7e8e57ad8d794e771654242733419771.html</Path>
+    <Anchor>a7e8e57ad8d794e771654242733419771</Anchor>
+    <Abstract>Loads a bank. This version blocks until the bank is loaded. See AK::SoundEngine::LoadBank...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>LoadBankAsync</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>clm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_bank_manager_ac76cc3fd7f71e2abcb8d2e9813bc2779.html</Path>
+    <Anchor>ac76cc3fd7f71e2abcb8d2e9813bc2779</Anchor>
+    <Abstract>Loads a bank. This version returns right away and loads in background. See AK::SoundEngine::LoadBank...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>UnloadBank</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>clm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_bank_manager_a61b84e85a9591dae1eacd60b391ceb90.html</Path>
+    <Anchor>a61b84e85a9591dae1eacd60b391ceb90</Anchor>
+    <Abstract>Unloads a bank. See AK::SoundEngine::UnloadBank for more information.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>GetAuxSendValueForPosition</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>instm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_environment_portal_a803fc2ce7c07709afdcda9672cad6951.html</Path>
+    <Anchor>a803fc2ce7c07709afdcda9672cad6951</Anchor>
+    <Abstract>The axis used to find the contribution of each environment.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>axis</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_environment_portal_af6f8e390606fd322e4ffac5c8a5211d1.html</Path>
+    <Anchor>af6f8e390606fd322e4ffac5c8a5211d1</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>eventID</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a74212f955e0443deb39b764bbecc809a.html</Path>
+    <Anchor>a74212f955e0443deb39b764bbecc809a</Anchor>
+    <Abstract>ID of the Event as found in the WwiseID.cs file.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>soundEmitterObject</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a3f25432892a94c9b80d4e24408cfe551.html</Path>
+    <Anchor>a3f25432892a94c9b80d4e24408cfe551</Anchor>
+    <Abstract>Game object onto which the Event will be posted. By default, when empty, it is posted...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>enableActionOnEvent</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a55c358f4863c8f85aa5dd72dcf5b8fcb.html</Path>
+    <Anchor>a55c358f4863c8f85aa5dd72dcf5b8fcb</Anchor>
+    <Abstract>Enables additional options to reuse existing events. Use it to transform a Play event...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>actionOnEventType</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a9ebd4b3857bd5aa4e48ad140f7418a75.html</Path>
+    <Anchor>a9ebd4b3857bd5aa4e48ad140f7418a75</Anchor>
+    <Abstract>Replacement action. See AK::SoundEngine::ExecuteEventOnAction().</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>curveInterpolation</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_ac9a601f2ea52e2ec4f7da6f6d1f47417.html</Path>
+    <Anchor>ac9a601f2ea52e2ec4f7da6f6d1f47417</Anchor>
+    <Abstract>Fade curve to use with the new Action. See AK::SoundEngine::ExecuteEventOnAction()...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>transitionDuration</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_event_a856277457c22871638f774f7b99069d8.html</Path>
+    <Anchor>a856277457c22871638f774f7b99069d8</Anchor>
+    <Abstract>Duration of the fade. See AK::SoundEngine::ExecuteEventOnAction().</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>sender</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>struct_ak_event_callback_msg_ac6e78d3c3a2518bfe74f115c4838eb21.html</Path>
+    <Anchor>ac6e78d3c3a2518bfe74f115c4838eb21</Anchor>
+    <Abstract>AkSoundEngine.PostEvent callback flags. See the AkCallbackType enumeration for a...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>info</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>struct_ak_event_callback_msg_a6dda26f4b81e56069543c87075b77636.html</Path>
+    <Anchor>a6dda26f4b81e56069543c87075b77636</Anchor>
+    <Abstract>GameObject from whom the callback function was called.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>GetPosition</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>instm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_game_obj_a6a11fe5b456109327f7c22cd3738b7cb.html</Path>
+    <Anchor>a6a11fe5b456109327f7c22cd3738b7cb</Anchor>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>m_posOffsetData</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_game_obj_a28ed43e969430cb1014617a68c3241e6.html</Path>
+    <Anchor>a28ed43e969430cb1014617a68c3241e6</Anchor>
+    <Abstract>When not set to null, the emitter position will be offset relative to the Game Object...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>isEnvironmentAware</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_game_obj_a92b827623ddc330289d2e1f228841399.html</Path>
+    <Anchor>a92b827623ddc330289d2e1f228841399</Anchor>
+    <Abstract>Is this object affected by Environment changes? Set to false if not affected in order...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>listenerMask</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_game_obj_a117b81ead04251265153133dd6201639.html</Path>
+    <Anchor>a117b81ead04251265153133dd6201639</Anchor>
+    <Abstract>Listener 0 by default.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>basePath</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_initializer_afee118d93773dbca99a24c44763de187.html</Path>
+    <Anchor>afee118d93773dbca99a24c44763de187</Anchor>
+    <Abstract>Path for the soundbanks. This must contain one sub folder per platform, with the...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>language</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_initializer_a61be742439aa04aa1166a2fa41cb64cd.html</Path>
+    <Anchor>a61be742439aa04aa1166a2fa41cb64cd</Anchor>
+    <Abstract>Language sub-folder.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>defaultPoolSize</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_initializer_a0ad8d81a50a26216273ccd6b2e7e1f8c.html</Path>
+    <Anchor>a0ad8d81a50a26216273ccd6b2e7e1f8c</Anchor>
+    <Abstract>Default Pool size. This contains the meta data for your audio project. Default size...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>lowerPoolSize</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_initializer_ac82f1b79e078db9fdac54002a0a7b78c.html</Path>
+    <Anchor>ac82f1b79e078db9fdac54002a0a7b78c</Anchor>
+    <Abstract>Lower Pool size. This contains the audio processing buffers and DSP data. Default...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>streamingPoolSize</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_initializer_a488d0eeec5644c0aaefd83b377a9c216.html</Path>
+    <Anchor>a488d0eeec5644c0aaefd83b377a9c216</Anchor>
+    <Abstract>Streaming Pool size. This contains the streaming buffers. Default size is 1 MB, but...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>memoryCutoffThreshold</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_initializer_a3ce030ffbae1ed67e857e5e3617eb441.html</Path>
+    <Anchor>a3ce030ffbae1ed67e857e5e3617eb441</Anchor>
+    <Abstract>This setting will trigger the killing of sounds when the memory is reaching 95% of...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>engineLogging</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_initializer_ad9184e361ff2f0ef161a47c167669b81.html</Path>
+    <Anchor>ad9184e361ff2f0ef161a47c167669b81</Anchor>
+    <Abstract>Enable Wwise engine logging. Option to turn on/off the logging of the Wwise engine...</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>LoadNonLocalizedBank</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>instm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_mem_bank_loader_ac730fdbbc50db52628fab61369cfff3a.html</Path>
+    <Anchor>ac730fdbbc50db52628fab61369cfff3a</Anchor>
+    <Abstract>Load a sound bank from WWW object.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>LoadLocalizedBank</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>instm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_mem_bank_loader_a97d7dae0ed7e6718759403417274af54.html</Path>
+    <Anchor>a97d7dae0ed7e6718759403417274af54</Anchor>
+    <Abstract>Load a language-specific bank from WWW object.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>bankName</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_mem_bank_loader_a2a14604a902af51dc8589b273c7be184.html</Path>
+    <Anchor>a2a14604a902af51dc8589b273c7be184</Anchor>
+    <Abstract>Name of the bank to load.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>isLocalizedBank</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_mem_bank_loader_a2eb6294ffc60c639f86e13869fc99826.html</Path>
+    <Anchor>a2eb6294ffc60c639f86e13869fc99826</Anchor>
+    <Abstract>Is the bank localized (situated in the language specific folders).</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>groupID</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_state_a2c97d469200fd06716cac28b82d1580f.html</Path>
+    <Anchor>a2c97d469200fd06716cac28b82d1580f</Anchor>
+    <Abstract>State Group ID, as defined in WwiseID.cs.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>valueID</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_state_a79a82c86cd31179113562929c1a67fd2.html</Path>
+    <Anchor>a79a82c86cd31179113562929c1a67fd2</Anchor>
+    <Abstract>State Value ID, as defined in WwiseID.cs.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>groupID</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_switch_aaa5fffce06dc767f44d06fad43959e86.html</Path>
+    <Anchor>aaa5fffce06dc767f44d06fad43959e86</Anchor>
+    <Abstract>Switch Group ID, as defined in WwiseID.cs.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>valueID</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_switch_a0c4801b342fd0b06f1f70f3d7243c455.html</Path>
+    <Anchor>a0c4801b342fd0b06f1f70f3d7243c455</Anchor>
+    <Abstract>Switch Value ID, as defined in WwiseID.cs.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>Trigger</Name>
+      <APILanguage>csharp</APILanguage>
+      <Type>instm</Type>
+    </TokenIdentifier>
+    <Path>class_ak_trigger_base_ab4614eb4bd6786e862e003bfa19cafea.html</Path>
+    <Anchor>ab4614eb4bd6786e862e003bfa19cafea</Anchor>
+    <Abstract>Delegate declaration for all Wwise Triggers.</Abstract>
+  </Token>
+  <Token>
+    <TokenIdentifier>
+      <Name>triggerDelegate</Name>
+      <APILanguage>cpp</APILanguage>
+      <Type>data</Type>
+    </TokenIdentifier>
+    <Path>class_ak_trigger_base_ab98c3e4da938eedb78dc5506f61ab6e4.html</Path>
+    <Anchor>ab98c3e4da938eedb78dc5506f61ab6e4</Anchor>
+    <Abstract>All components reacting to the trigger will be registered in this delegate.</Abstract>
+  </Token>
+</Tokens>
