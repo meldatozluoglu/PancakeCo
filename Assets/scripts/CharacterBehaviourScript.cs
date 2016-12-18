@@ -345,19 +345,20 @@ public class CharacterBehaviourScript : MonoBehaviour {
 	void checkCollectable (GameObject collidedGameObject){
 		//Debug.Log ("collided with collectable");
 		CollectableBehaviourScript script = collidedGameObject.GetComponentInParent <CollectableBehaviourScript> ();
-		if (playerId == script.getOwnerID ()) {
-			//collectable is mine!
-			//Debug.Log ("collectable is mine");
+		//if (playerId == script.getOwnerID ()) {
+		//collectable is mine!
+		if (script.isCollectable()){
 			addToCollectables (script.getCollectableValue ());
 			script.collected ();
 		}
+		//}
 	}
 
 	public void checkHitLevel (Collider2D other){
 		float xVel = other.gameObject.GetComponent<Rigidbody2D> ().velocity.x;
 		float yVel = other.gameObject.GetComponent<Rigidbody2D> ().velocity.y;
 		float hitMag = xVel * xVel + yVel*yVel;
-		//Debug.Log ("hitvel mag: " + hitMag);
+		Debug.Log ("hitvel mag: " + hitMag+" hit threshold: "+hitThreshold[0]+" "+hitThreshold[1]);
 		if (hitMag > hitThreshold [0]) {
 			hitThisStep = true;
 			nextHitTime = Time.time + nextHitDelay;
