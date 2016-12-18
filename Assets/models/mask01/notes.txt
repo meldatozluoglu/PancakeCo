@@ -1,0 +1,4 @@
+Import .obj file by simply drag and dropping to assets window.
+Import the texture same way.
+On the poly surface (not the mesh) inside the object, scroll to material, 
+in main maps, pick albedo. Selecet the desired imported texture.

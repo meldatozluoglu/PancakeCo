@@ -7,7 +7,7 @@ public class CollectableInitiator : MonoBehaviour {
 	//parameters for collectable release:
 	private Vector3 SpawnPoint;
 	private Vector3 SpawnVel;
-	private float randomPrecision = 100.0f;
+	//private float randomPrecision = 10.0f;
 	private float maxVel;
 
 	void OnEnable (){
@@ -18,7 +18,8 @@ public class CollectableInitiator : MonoBehaviour {
 		UIController.resumeGameEvent += resumeGameForCollectableInitiator; 
 		CharacterBehaviourScript.instantiateCollectablesEvent += instantiateCollectables;
 
-		maxVel = 100f/randomPrecision;
+		//maxVel = 100f/randomPrecision;
+		maxVel = 50f;
 	}
 
  	void Start() {
@@ -43,11 +44,13 @@ public class CollectableInitiator : MonoBehaviour {
 		CollectableBehaviourScript script = newCollectable.GetComponent <CollectableBehaviourScript> ();
 		script.setOwnerId (id);
 
-		Vector2 velDir = new Vector2 (Random.Range (-randomPrecision,randomPrecision), Random.Range (-randomPrecision,randomPrecision));
+		Vector2 velDir = new Vector2 (Random.Range (-100,100), Random.Range (50,100));
 		velDir = velDir.normalized;
 		float velMag = maxVel; //add noise here if you wish
 		//now I have the vector for velocity direction.ß
 		script.setInitialVel (velDir.x*velMag, velDir.y*velMag);
+		Debug.Log (" velocity: "+velDir.x*velMag+" "+velDir.y*velMag);
+
 	}
 
 	void stopGameForCollectableInitiator(){

@@ -160,6 +160,7 @@
      <None Include="Assets\Wwise\Deployment\Plugins\Mac\Release\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
      <None Include="Assets\Wwise\Deployment\Plugins\Mac\Profile\AkSoundEngine.bundle\Contents\Resources\readme.txt" />
      <None Include="Assets\StreamingAssets\desc.txt" />
+     <None Include="Assets\models\mask01\notes.txt" />
      <None Include="Assets\Wwise\Version.txt" />
      <None Include="Assets\StreamingAssets\Audio\GeneratedSoundBanks\Mac\SoundbanksInfo.xml" />
      <None Include="Assets\WwiseSettings.xml" />

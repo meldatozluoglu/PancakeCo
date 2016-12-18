@@ -91,8 +91,8 @@ public class CharacterBehaviourScript : MonoBehaviour {
 		Physics.IgnoreLayerCollision(LayerMask.NameToLayer("Ground"), LayerMask.NameToLayer("Player"), true);
 
 		hitThreshold = new float[2];
-		hitThreshold [0] = 40000;
-		hitThreshold [1] = 20000;
+		hitThreshold [0] = 4000;
+		hitThreshold [1] = 2000;
 		/*for (int i = 0; i < gameObject.transform.childCount - 1; i++) {
 			if (gameObject.transform.GetChild (i).transform.name == "body") {
 				bodyGameObject = gameObject.transform.GetChild (i).GetComponent<GameObject> ();
@@ -374,7 +374,7 @@ public class CharacterBehaviourScript : MonoBehaviour {
 	}
 
 	void dropCollectable(){
-		Debug.Log ("dropping collectables: "+nCollectablesToDrop+" hitByPlayer: "+hitByPlayer+ " hitThisStep: " + hitThisStep+" time: "+Time.time+" next hit time: "+nextHitTime);
+		//Debug.Log ("dropping collectables: "+nCollectablesToDrop+" hitByPlayer: "+hitByPlayer+ " hitThisStep: " + hitThisStep+" time: "+Time.time+" next hit time: "+nextHitTime);
 		float x = transform.position.x;
 		float y = transform.position.y;
 		while (nCollectablesToDrop>0 && nCollectables >0) {
@@ -388,7 +388,7 @@ public class CharacterBehaviourScript : MonoBehaviour {
 		hitThisStep = false;
 		hitByPlayer = 0;
 		nCollectablesToDrop = 0;
-		Debug.Log ("outside loop: "+nCollectablesToDrop+" hitByPlayer: "+hitByPlayer+ "hitThisStep: " + hitThisStep + " time: "+Time.time+" next hit time: "+nextHitTime);
+		//Debug.Log ("outside loop: "+nCollectablesToDrop+" hitByPlayer: "+hitByPlayer+ "hitThisStep: " + hitThisStep + " time: "+Time.time+" next hit time: "+nextHitTime);
 	}
 
 	public void addToCollectables(int n){

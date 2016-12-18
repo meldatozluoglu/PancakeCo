@@ -147,8 +147,8 @@ public class OnLevelChange : MonoBehaviour {
 			Instantiate (Resources.Load ("Character"), SpawnPoint, Quaternion.identity);
 			GameObject character = GameObject.Find ("Character(Clone)").gameObject;
 			character.name = "Character" + id;
-			renderer = character.GetComponentsInChildren  <SpriteRenderer> ();
-			renderer[0].color = new Color (CharacterColours [i] [0], CharacterColours [i] [1], CharacterColours [i] [2], 1f);
+			//renderer = character.GetComponentsInChildren  <SpriteRenderer> ();
+			//renderer[0].color = new Color (CharacterColours [i] [0], CharacterColours [i] [1], CharacterColours [i] [2], 1f);
 		}
 	}
 }
